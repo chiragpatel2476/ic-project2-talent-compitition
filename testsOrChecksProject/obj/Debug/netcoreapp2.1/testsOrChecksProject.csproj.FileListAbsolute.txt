@@ -1,0 +1,14 @@
+C:\Users\CHIRAG-HOME-LAPTOP\source\repos\talent-competition\testsOrChecksProject\bin\Debug\netcoreapp2.1\testsOrChecksProject.deps.json
+C:\Users\CHIRAG-HOME-LAPTOP\source\repos\talent-competition\testsOrChecksProject\bin\Debug\netcoreapp2.1\testsOrChecksProject.runtimeconfig.json
+C:\Users\CHIRAG-HOME-LAPTOP\source\repos\talent-competition\testsOrChecksProject\bin\Debug\netcoreapp2.1\testsOrChecksProject.runtimeconfig.dev.json
+C:\Users\CHIRAG-HOME-LAPTOP\source\repos\talent-competition\testsOrChecksProject\bin\Debug\netcoreapp2.1\testsOrChecksProject.dll
+C:\Users\CHIRAG-HOME-LAPTOP\source\repos\talent-competition\testsOrChecksProject\bin\Debug\netcoreapp2.1\testsOrChecksProject.pdb
+C:\Users\CHIRAG-HOME-LAPTOP\source\repos\talent-competition\testsOrChecksProject\obj\Debug\netcoreapp2.1\testsOrChecksProject.csprojAssemblyReference.cache
+C:\Users\CHIRAG-HOME-LAPTOP\source\repos\talent-competition\testsOrChecksProject\obj\Debug\netcoreapp2.1\testsOrChecksProject.csproj.CoreCompileInputs.cache
+C:\Users\CHIRAG-HOME-LAPTOP\source\repos\talent-competition\testsOrChecksProject\obj\Debug\netcoreapp2.1\testsOrChecksProject.RazorAssemblyInfo.cache
+C:\Users\CHIRAG-HOME-LAPTOP\source\repos\talent-competition\testsOrChecksProject\obj\Debug\netcoreapp2.1\testsOrChecksProject.RazorAssemblyInfo.cs
+C:\Users\CHIRAG-HOME-LAPTOP\source\repos\talent-competition\testsOrChecksProject\obj\Debug\netcoreapp2.1\testsOrChecksProject.AssemblyInfoInputs.cache
+C:\Users\CHIRAG-HOME-LAPTOP\source\repos\talent-competition\testsOrChecksProject\obj\Debug\netcoreapp2.1\testsOrChecksProject.AssemblyInfo.cs
+C:\Users\CHIRAG-HOME-LAPTOP\source\repos\talent-competition\testsOrChecksProject\obj\Debug\netcoreapp2.1\testsOrChecksProject.RazorTargetAssemblyInfo.cache
+C:\Users\CHIRAG-HOME-LAPTOP\source\repos\talent-competition\testsOrChecksProject\obj\Debug\netcoreapp2.1\testsOrChecksProject.dll
+C:\Users\CHIRAG-HOME-LAPTOP\source\repos\talent-competition\testsOrChecksProject\obj\Debug\netcoreapp2.1\testsOrChecksProject.pdb
